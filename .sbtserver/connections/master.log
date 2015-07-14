@@ -1,0 +1,7 @@
+New log file opened at Mon Jul 13 01:08:28 BST 2015 by 599@applematoAir
+Taking next connection to: 49308
+New client attempting to connect on port: 49309-49308
+  Address = /192.168.0.75:49308
+This client on port 49309 has uuid f809010c-92b0-4587-96a8-ed232ce7dbaa configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-f809010c-92b0-4587-96a8-ed232ce7dbaa
+Taking next connection to: 49308

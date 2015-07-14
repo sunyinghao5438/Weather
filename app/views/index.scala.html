@@ -1,0 +1,10 @@
+@(message: String)
+
+@main("Welcome to Play") {
+
+
+    <form action="@routes.Application.postAndgetResult()" method="post">
+        <input type="text" name="cityName" />
+        <button>Get Weather</button>
+    </form>
+}
